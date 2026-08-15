@@ -32,6 +32,7 @@ case — it is meant to be the single place where the facts agree with each othe
 |---|---|---|---|
 | **Dr Shridhar Joshi** | Paediatric neurology (DM, CMC Vellore) | Helios Child Neurology Centre / The Children's Hospital, Vadodara | Prescription, 21 May 2026 |
 | **Dr Shiji Chalipat** | Consultant paediatric neurologist — set the steroid regimen and the trial-seeking plan | Ankura Hospital, Aundh, **Pune** | Prescription, 25 May 2026 |
+| **Dr Ann Agnes Mathew** | Consultant paediatric neurologist, **Fellow in Paediatric Neuromuscular Diseases** — prescribed ELEVIDYS | SPARSH Hospital / Synapse Neuro & Child Development Centre, **Bengaluru** | ELEVIDYS prescription, 9 July 2026 |
 | **Dr Sarbani Raha** | Referred the CPK / blood group workup | not stated | CPK report, 1 May 2026 |
 | **Dr Biren Bhatt** | Referred the DMD genetic test | Toprani Advanced Lab Systems, Vadodara | MedGenome report, 19 May 2026 |
 | Dr Pragya Gupta | Senior Molecular Pathologist & Clinical Head, signed the genetic report | MedGenome Labs, Bangalore | MedGenome report |
@@ -51,18 +52,20 @@ ask who is coordinating care, and the campaign needs one medical voice.
 | **2026-05-21** | Follow-up with Dr Shridhar Joshi. Diagnosis confirmed: **out-of-frame exon 50 deletion**. Function recorded as **Vignos 2, Brooke 1** — ambulatory, mildly affected. **Deflazacort not started**, pending sight of the vaccination card. ECG/2D Echo ordered with Dr Chintan Bhatt to look for diastolic dysfunction. Calcirol 60,000 IU monthly and Syp. Calcimax-P 5 ml twice daily, both for 3 months. | [Prescription](sources/2026-05-21-dr-shridhar-joshi-prescription.md) |
 | **2026-05-25** | First consultation with **Dr Shiji Chalipat**, Ankura Hospital, Pune. Weight 14.74 kg, height 99 cm. **Ambulant, early phase.** Gowers' +ve, hyperlordosis +ve, recurrent LRTI, hyperactivity noted, independent walking achieved by 2 years. Already vaccinated against flu and varicella. **Deflazacort 12 mg once daily, to start in 6 weeks** (≈6 July 2026). 2D Echo with GLS, physio, Carnisure, calcium/vit D panel ordered. **Mother's CPK, DMD-MLPA and 2D Echo ordered.** Plan records: *"To explore the active trials all over the world. US + Dubai."* | [Chalipat prescription](sources/2026-05-25-dr-shiji-chalipat-prescription.md) |
 | **≈2026-07-06** | **Deflazacort due to start** — unconfirmed. Everything downstream depends on this date. | inferred from the above |
+| **2026-07-09** | **ELEVIDYS formally prescribed** by **Dr Ann Agnes Mathew** at **SPARSH Hospital, Bengaluru**. 140 mL = **14 × 10 mL vials**, single IV infusion under 120 minutes. Weight recorded **14.27 kg** — down 0.47 kg from 25 May. | [ELEVIDYS prescription](sources/2026-07-09-sparsh-elevidys-prescription.md) |
 | **2026-08-15** | Campaign appeal circulating on WhatsApp: ₹26 crore target for ELEVIDYS, ImpactGuru fundraiser live. Outreach list of 32 trial sites in use. | [Appeal](sources/2026-08-15-campaign-appeal-whatsapp.md) |
 
 ## The gap that remains
 
-Documentation now runs to 25 May 2026. **Nothing is recorded between then and today**, and
-that period contains the events that decide everything:
+Documentation now runs to 9 July 2026. Five weeks are unrecorded since, and these questions
+remain open across the whole period:
 
-- **Did deflazacort start around 6 July, as planned?** *(gates trial eligibility — 12 weeks for SGT-003, 24 weeks for FORZETTO. See [the steroid clock](outreach/steroid-clock-and-eligibility.md).)*
+- **Did deflazacort start around 6 July, as planned?** *(gates trial eligibility — 12 weeks for SGT-003, 24 weeks for FORZETTO. See [the steroid clock](outreach/steroid-clock-and-eligibility.md).)* The weight drop between 25 May and 9 July is mildly against it.
+- **Has an AAV antibody test been done?** *(ELEVIDYS cannot be given without a negative anti-AAVrh74 result — and it has now been formally prescribed)*
+- **Under what regulatory route would ELEVIDYS be imported and administered in India?**
 - Was the 2D Echo with GLS done, and what did it show?
 - Were the mother's CPK, DMD-MLPA and 2D Echo done?
 - Were the flu and pneumococcal vaccines given?
-- **Has an AAV antibody test been done?** *(gates every gene therapy route, including ELEVIDYS — still unaddressed by any document)*
 - Was exon 50 sequencing done, as MedGenome recommended?
 
 Filling this gap is the most useful next step. Until it is filled, nobody — including the

@@ -12,7 +12,7 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 | # | Question | Why it matters | Status |
 |---|---|---|---|
 | 16 | **Did deflazacort start around 6 July 2026, as Dr Chalipat planned?** | Still the most time-sensitive item. Prescribed 25 May as 12 mg once daily, to begin after 6 weeks. If it started on schedule he clears 12 weeks ≈ 28 Sep 2026 and 24 weeks ≈ 21 Dec 2026 — the SGT-003 and FORZETTO gates. If it slipped, both move. One question to Gaurang answers it. See [the steroid clock](outreach/steroid-clock-and-eligibility.md). | Open |
-| 12 | **Has Shaurya been tested for AAV antibodies, and what was the result?** | Every gene therapy route including ELEVIDYS itself requires a negative result. If positive, the ₹26 crore purchase is not possible no matter how much is raised. It is an ordinary blood test. | Open |
+| 12 | **Has Shaurya been tested for anti-AAVrh74 antibodies, and what was the result?** | ELEVIDYS has now been **formally prescribed**, and it cannot be given without a negative result. Seven clinical documents and six clinicians in, no document records this test. If positive, the ₹26 crore purchase is not possible no matter how much is raised. It is an ordinary blood test. | Open |
 | 5 | Is there a treatment deadline or clinical window? | Age, ambulatory status and antibody titre all gate eligibility. A real deadline is the single most motivating fact for donors, and it is currently absent from the appeal. | Open |
 | 1 | Is the UPI VPA exactly `supportshaury9484@cashfreensdlpb`? Note it reads "shaury", not "shaurya". | A single wrong character sends donations to a stranger, irrecoverably. Must be confirmed by a test transaction, not by reading it. | Open |
 
@@ -42,8 +42,9 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 | # | Question | Why it matters | Status |
 |---|---|---|---|
 | 10 | Is a **clinical trial** being pursued as well as **paid ELEVIDYS**? | Two different strategies with different timelines and costs. The campaign describes only the paid route; a trial place would change the ask entirely. | Open |
-| 4 | Where would ELEVIDYS actually be administered — India or abroad? Is it approved/importable, and under what route? | Drives cost, timeline, and what donors are being asked to fund. | Open |
-| 3 | Is ₹26 crore the therapy cost alone, or does it include hospitalisation, workup, immunosuppression, travel and post-infusion monitoring? | Determines whether the target is the real target. Under-asking is worse than over-asking. | Open |
+| 4 | Where would ELEVIDYS be administered? | **Partly answered — SPARSH Hospital, Bengaluru**, prescribed 9 July 2026 by Dr Ann Agnes Mathew. 140 mL / 14 vials, single infusion under 120 minutes. | **Partly closed** |
+| 28 | **Under what regulatory route is ELEVIDYS being imported?** | It is US-approved, not an Indian-approved product. Administration in Bengaluru would ordinarily need a named-patient / compassionate import authorisation. The prescription does not say which route, how long it takes, or whether it has been applied for. For a ₹26 crore campaign, the pathway matters as much as the money — funds raised against an unavailable import route help nobody. | Open |
+| 3 | Is ₹26 crore the therapy cost alone, or does it include hospitalisation, workup, immunosuppression, and post-infusion monitoring? | Determines whether the target is the real target. Now costable against a concrete quantity: **14 vials**. Under-asking is worse than over-asking. | Open |
 | 15 | Would the family travel internationally for a trial, and is that funded? | No DMD gene therapy or exon-skipping trial is recruiting in India. Every live route means travel, visas, accommodation and a carer — costs the campaign has not accounted for. | Open |
 | 9 | Which trial sites has the family already contacted, when, and what came back? | Several addresses in the original outreach list were undeliverable, so silence may mean the mail never arrived rather than a "no". Without a contact log, sites get re-mailed or missed. | Open |
 
@@ -51,7 +52,7 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 
 | # | Question | Why it matters | Status |
 |---|---|---|---|
-| 20 | Who is the lead clinician overall? | Care now spans **six** names across four cities: Dr Joshi (Vadodara), Dr Chalipat (Pune), Dr Chintan Bhatt (cardiology), Dr Sarbani Raha, Dr Biren Bhatt, and SPARSH Bengaluru. Dr Chalipat's note is the most complete and sets the trial-seeking plan, which makes Pune the natural centre — but that should be confirmed, not assumed. Trial sites ask who coordinates. | Open |
+| 20 | Who is the lead clinician overall? | **Likely Dr Ann Agnes Mathew** at SPARSH Bengaluru — she holds a Fellowship in Paediatric Neuromuscular Diseases and wrote the ELEVIDYS prescription, which is the most consequential decision in the file. Care still spans seven names across four cities (Dr Joshi/Vadodara, Dr Chalipat/Pune, Dr Chintan Bhatt, Dr Sarbani Raha, Dr Biren Bhatt, Dr Mathew/Bengaluru). Should be confirmed rather than inferred — trial sites ask who coordinates. | Open |
 | 26 | How do Dr Sarbani Raha and Dr Biren Bhatt relate? | Two different referring clinicians on samples drawn a day apart, both via Toprani Labs. Not a problem, but the campaign should be able to say who ordered what. | Open |
 | 7 | Who is authorised to speak publicly for the campaign and approve material? | Prevents contradictory messaging across volunteers. | Open |
 | 8 | Which specific medical details has the family consented to making public? | Minor's medical data. Consent scope must be explicit, not assumed. | Open |
