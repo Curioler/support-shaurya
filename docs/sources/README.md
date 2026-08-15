@@ -24,7 +24,8 @@ Use the date the material was created or sent, not the date it was filed.
 
 | Date | File | What it is |
 |---|---|---|
-| 2026-08-15 | [2026-08-15-campaign-appeal-whatsapp.md](2026-08-15-campaign-appeal-whatsapp.md) | Gaurang's WhatsApp appeal — the current public ask, ImpactGuru link, UPI VPA |
+| 2026-08-15 | [2026-08-15-campaign-appeal-whatsapp.md](2026-08-15-campaign-appeal-whatsapp.md) | Gaurang's WhatsApp appeal — ImpactGuru link, UPI VPA |
+| 2026-08-15 | [2026-08-15-ketto-appeal-whatsapp.md](2026-08-15-ketto-appeal-whatsapp.md) | Jolly's WhatsApp appeal — the **second** platform, Ketto |
 | 2026-08-15 | [2026-08-15-clinical-trial-site-contacts.md](2026-08-15-clinical-trial-site-contacts.md) | 32 trial sites / treatment centres with contacts, compiled for outreach |
 | 2026-05-21 | [2026-05-21-dr-shridhar-joshi-prescription.md](2026-05-21-dr-shridhar-joshi-prescription.md) + [.pdf](2026-05-21-dr-shridhar-joshi-prescription.pdf) | Paediatric neurology follow-up — MLPA result, functional scores, steroid plan |
 | 2026-05-01 | [2026-05-01-toprani-labs-cpk-and-blood-group.md](2026-05-01-toprani-labs-cpk-and-blood-group.md) + [.pdf](2026-05-01-toprani-labs-cpk-and-blood-group.pdf) | Toprani Labs — CPK 22,051 U/L, blood group B Rh Positive |
