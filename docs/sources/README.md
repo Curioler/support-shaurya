@@ -1,0 +1,27 @@
+# Source documents
+
+Raw, unedited source material for the Shaurya support campaign. Everything here is
+**verbatim capture** — WhatsApp messages, medical documents, letters, quotes, reports.
+
+Rules for this folder:
+
+- Nothing here gets edited or "cleaned up". If something is wrong, it gets corrected in a
+  derived document elsewhere in `docs/`, with a note pointing back to the source.
+- Every file records where it came from and when it was captured.
+- Derived/working documents (summaries, plans, the campaign narrative, the platform spec)
+  live in `docs/`, not in here.
+
+## Naming
+
+```
+YYYY-MM-DD-short-description.md      # captured text (WhatsApp, email, notes)
+YYYY-MM-DD-short-description.pdf     # original attachments, unmodified
+```
+
+Use the date the material was created or sent, not the date it was filed.
+
+## Index
+
+| Date | File | What it is |
+|---|---|---|
+| 2026-08-15 | [2026-08-15-campaign-appeal-whatsapp.md](2026-08-15-campaign-appeal-whatsapp.md) | Gaurang's WhatsApp appeal — the current public ask, ImpactGuru link, UPI VPA |
