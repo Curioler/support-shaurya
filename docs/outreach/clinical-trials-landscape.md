@@ -12,6 +12,11 @@ retrieved and filtered against Shaurya's age (4y 4m = 52 months).
 > The Children's Hospital, Vadodara. Every row must be confirmed with the trial site
 > before acting on it.
 
+> **⚠ Superseded in part.** Dr Joshi's note of 21 May 2026 records an **out-of-frame
+> deletion of exon 50**, which resolves the genetic question below and rules four of
+> these trials out. Read [genotype-and-eligibility.md](genotype-and-eligibility.md)
+> first — this page is retained for the full landscape and the verified site contacts.
+
 ---
 
 ## Two facts decide almost everything below
