@@ -11,7 +11,7 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 
 | # | Question | Why it matters | Status |
 |---|---|---|---|
-| 16 | **Has deflazacort been started, and on what date?** | The most time-sensitive item in the campaign. Not started as of 21 May 2026, pending the vaccination card. Trial eligibility clocks run from the first dose: 12 weeks for SGT-003, 24 weeks for the Phase 3 FORZETTO study. Every week of delay moves both dates. | Open |
+| 16 | **Did deflazacort start around 6 July 2026, as Dr Chalipat planned?** | Still the most time-sensitive item. Prescribed 25 May as 12 mg once daily, to begin after 6 weeks. If it started on schedule he clears 12 weeks ≈ 28 Sep 2026 and 24 weeks ≈ 21 Dec 2026 — the SGT-003 and FORZETTO gates. If it slipped, both move. One question to Gaurang answers it. See [the steroid clock](outreach/steroid-clock-and-eligibility.md). | Open |
 | 12 | **Has Shaurya been tested for AAV antibodies, and what was the result?** | Every gene therapy route including ELEVIDYS itself requires a negative result. If positive, the ₹26 crore purchase is not possible no matter how much is raised. It is an ordinary blood test. | Open |
 | 5 | Is there a treatment deadline or clinical window? | Age, ambulatory status and antibody titre all gate eligibility. A real deadline is the single most motivating fact for donors, and it is currently absent from the appeal. | Open |
 | 1 | Is the UPI VPA exactly `supportshaury9484@cashfreensdlpb`? Note it reads "shaury", not "shaurya". | A single wrong character sends donations to a stranger, irrecoverably. Must be confirmed by a test transaction, not by reading it. | Open |
@@ -33,8 +33,9 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 | 11 | What is Shaurya's exact DMD mutation? | Hemizygous out-of-frame deletion of **exon 50**, dosage quotient 0.00, pathogenic, no VUS, no other copy-number change. [MedGenome, 19 May 2026](sources/2026-05-19-medgenome-dmd-mlpa-report.md). Amenable to exon 51 skipping. | **Closed** |
 | 18 | Can we obtain the MedGenome MLPA report itself? | Received 2026-08-15, filed in sources. | **Closed** |
 | 23 | **Has exon 50 sequencing been done?** | MedGenome explicitly recommends it, and their own disclaimer says single-exon MLPA deletions "should always be confirmed by other methods like multiplex PCR or sequencing". Sponsors review genotype through their own genetic counsellors; an unconfirmed single-exon call is what stalls an application. | Open |
-| 24 | Has Shaurya's mother been screened for carrier status? | Recommended in the MedGenome report. Does not affect his treatment; matters to the family and to genetic counselling. | Open |
-| 25 | **What is Shaurya's exact date of birth?** | MedGenome recorded 4y3m on 19 May 2026 (birth ≈ Feb 2022, making him ~4y6m now); campaign material says 4y4m. Age gates trials — the Givinostat study runs to the 6th birthday — so one consistent DOB should be used everywhere. | Open |
+| 24 | Has Shaurya's mother been screened for carrier status? | Recommended by MedGenome and **ordered by Dr Chalipat on 25 May 2026** (CPK, DMD-MLPA, 2D Echo). Whether it was done is unknown. | Open — ordered |
+| 25 | What is Shaurya's exact date of birth? | **CLOSED — 7 January 2022**, per Ankura Hospital records. He is 4y7m, not the 4y4m in the campaign material. Givinostat window closes 7 Jan 2028. | **Closed** |
+| 27 | Is the campaign's stated age being kept current? | The appeal says 4 years 4 months; that was true in May and is now wrong. A stale age in a live fundraising appeal is a small credibility leak that compounds as months pass. | Open |
 
 ## Treatment strategy
 
@@ -50,7 +51,7 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 
 | # | Question | Why it matters | Status |
 |---|---|---|---|
-| 20 | Who is the lead clinician overall? | Care spans Dr Joshi (Vadodara), Dr Chintan Bhatt (cardiology), Dr Sarbani Raha, Dr Biren Bhatt and SPARSH Bengaluru. Trial sites ask who coordinates; the campaign needs one medical voice. | Open |
+| 20 | Who is the lead clinician overall? | Care now spans **six** names across four cities: Dr Joshi (Vadodara), Dr Chalipat (Pune), Dr Chintan Bhatt (cardiology), Dr Sarbani Raha, Dr Biren Bhatt, and SPARSH Bengaluru. Dr Chalipat's note is the most complete and sets the trial-seeking plan, which makes Pune the natural centre — but that should be confirmed, not assumed. Trial sites ask who coordinates. | Open |
 | 26 | How do Dr Sarbani Raha and Dr Biren Bhatt relate? | Two different referring clinicians on samples drawn a day apart, both via Toprani Labs. Not a problem, but the campaign should be able to say who ordered what. | Open |
 | 7 | Who is authorised to speak publicly for the campaign and approve material? | Prevents contradictory messaging across volunteers. | Open |
 | 8 | Which specific medical details has the family consented to making public? | Minor's medical data. Consent scope must be explicit, not assumed. | Open |
