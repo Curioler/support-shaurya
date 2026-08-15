@@ -13,3 +13,5 @@ public-facing campaign material. Anything unresolved here is a credibility risk.
 | 6 | How much has been raised so far, across ImpactGuru and any direct/UPI channels? | The platform's core job is a single trustworthy running total. | Open |
 | 7 | Who is authorised to speak publicly for the campaign and approve material? | Prevents contradictory messaging across volunteers. | Open |
 | 8 | Has Shaurya's family consented to which specific medical details being public? | Minor's medical data. Consent scope must be explicit, not assumed. | Open |
+| 9 | Which trial sites has the family already contacted, when, and what came back? | Several addresses in the outreach list are undeliverable or point at the wrong domain, so silence may mean the mail never arrived rather than a "no". Without a contact log, sites get re-mailed or missed. | Open |
+| 10 | Is Shaurya being pursued for a **clinical trial** (free, but randomised and eligibility-gated) as well as **paid ELEVIDYS**? | These are two different strategies with different timelines and costs, and the campaign currently only describes the paid route. A trial place would change the ask entirely. | Open |

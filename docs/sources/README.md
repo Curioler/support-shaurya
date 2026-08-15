@@ -25,3 +25,4 @@ Use the date the material was created or sent, not the date it was filed.
 | Date | File | What it is |
 |---|---|---|
 | 2026-08-15 | [2026-08-15-campaign-appeal-whatsapp.md](2026-08-15-campaign-appeal-whatsapp.md) | Gaurang's WhatsApp appeal — the current public ask, ImpactGuru link, UPI VPA |
+| 2026-08-15 | [2026-08-15-clinical-trial-site-contacts.md](2026-08-15-clinical-trial-site-contacts.md) | 32 trial sites / treatment centres with contacts, compiled for outreach |
