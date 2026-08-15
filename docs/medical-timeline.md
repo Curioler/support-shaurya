@@ -11,18 +11,28 @@ case — it is meant to be the single place where the facts agree with each othe
 | | |
 |---|---|
 | Name | Shaurya G Nayak |
-| Age | 4 years 4 months (as of 2026-08-15) |
+| Age | **~4 years 6 months** as of 2026-08-15 — see the note below |
 | Sex | Male |
 | Blood group | **B Rh Positive** |
 | Father | Gaurang K. Nayak |
-| Diagnosis | Duchenne Muscular Dystrophy — **out-of-frame deletion of exon 50**, MLPA-confirmed ⚠ |
+| Diagnosis | Duchenne Muscular Dystrophy — **hemizygous out-of-frame deletion of exon 50**, pathogenic, MLPA-confirmed by MedGenome |
+| Reference transcript | NM_004006.2 (Dp427m) |
+| MedGenome sample ID | 9957238 (Ref L18662-726) |
+
+> **Age discrepancy to resolve.** MedGenome recorded him as **4 years 3 months** on
+> 19 May 2026, which puts his birth around **February 2022** and makes him roughly
+> **4y 6m** now. The campaign material says 4y 4m. The gap is small but age gates trials
+> — the Givinostat study takes children up to their 6th birthday — so the exact date of
+> birth should be pinned down and used consistently everywhere.
 
 ## Clinicians involved
 
 | Name | Role | Where | First seen in |
 |---|---|---|---|
 | **Dr Shridhar Joshi** | Paediatric neurology (DM, CMC Vellore) | Helios Child Neurology Centre / The Children's Hospital, Vadodara | Prescription, 21 May 2026 |
-| **Dr Sarbani Raha** | Referring clinician for lab workup | not stated | CPK report, 1 May 2026 |
+| **Dr Sarbani Raha** | Referred the CPK / blood group workup | not stated | CPK report, 1 May 2026 |
+| **Dr Biren Bhatt** | Referred the DMD genetic test | Toprani Advanced Lab Systems, Vadodara | MedGenome report, 19 May 2026 |
+| Dr Pragya Gupta | Senior Molecular Pathologist & Clinical Head, signed the genetic report | MedGenome Labs, Bangalore | MedGenome report |
 | **Dr Chintan Bhatt** | Paediatric cardiology — referred to, ECG/Echo | Vadodara | Prescription, 21 May 2026 |
 | — | SPARSH Hospital, Bengaluru | Bengaluru | Campaign appeal |
 
@@ -34,7 +44,8 @@ ask who is coordinating care, and the campaign needs one medical voice.
 | Date | Event | Source |
 |---|---|---|
 | **2026-05-01** | Bloods drawn at Toprani Advanced Lab Systems, Vadodara, referred by Dr Sarbani Raha. **CPK 22,051 U/L** against an age reference of 75–230 — about 96× the upper limit. Blood group **B Rh Positive**. | [Toprani report](sources/2026-05-01-toprani-labs-cpk-and-blood-group.md) |
-| *between* | DMD MLPA performed. Lab appears to be **MedGenome** (partially cropped header on the prescription scan). **Report not yet in our hands.** | inferred |
+| **2026-05-02** | Peripheral blood (EDTA) drawn for DMD deletion/duplication analysis, referred by **Dr Biren Bhatt** via Toprani Labs. Received at MedGenome Bangalore 3 May; ordered 4 May. | [MedGenome report](sources/2026-05-19-medgenome-dmd-mlpa-report.md) |
+| **2026-05-19** | **MedGenome DNA test report issued.** Hemizygous deletion of **1 Exon (50)**, dosage quotient **0.00**, **pathogenic**, out-of-frame per reading frame checker. No VUS, no other copy-number change across the gene. Lab recommends **sequencing of exon 50** to exclude a probe-binding point variant, **maternal carrier screening**, and genetic counselling. | [MedGenome report](sources/2026-05-19-medgenome-dmd-mlpa-report.md) |
 | **2026-05-21** | Follow-up with Dr Shridhar Joshi. Diagnosis confirmed: **out-of-frame exon 50 deletion**. Function recorded as **Vignos 2, Brooke 1** — ambulatory, mildly affected. **Deflazacort not started**, pending sight of the vaccination card. ECG/2D Echo ordered with Dr Chintan Bhatt to look for diastolic dysfunction. Calcirol 60,000 IU monthly and Syp. Calcimax-P 5 ml twice daily, both for 3 months. | [Prescription](sources/2026-05-21-dr-shridhar-joshi-prescription.md) |
 | **2026-08-15** | Campaign appeal circulating on WhatsApp: ₹26 crore target for ELEVIDYS, ImpactGuru fundraiser live. Outreach list of 32 trial sites in use. | [Appeal](sources/2026-08-15-campaign-appeal-whatsapp.md) |
 
@@ -46,7 +57,8 @@ which the most consequential things should have happened:
 - Did deflazacort start? *(gates trial eligibility — 12 weeks for SGT-003, 24 weeks for FORZETTO)*
 - Were the ECG and 2D Echo done, and what did they show?
 - Has an AAV antibody test been done? *(gates every gene therapy route, including ELEVIDYS)*
-- Was the MedGenome MLPA report collected?
+- Was exon 50 sequencing done, as MedGenome recommended?
+- Was the mother screened for carrier status?
 
 Filling this gap is the most useful next step. Until it is filled, nobody — including the
 campaign — can say where Shaurya actually stands.
@@ -69,5 +81,6 @@ not.
 
 ---
 
-⚠ The exon number is read from handwriting and needs confirming against the printed
-MedGenome report. See [genotype-and-eligibility.md](outreach/genotype-and-eligibility.md).
+The genotype is confirmed in print by MedGenome. See
+[genotype-and-eligibility.md](outreach/genotype-and-eligibility.md) for what it opens and
+closes.

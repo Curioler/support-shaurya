@@ -1,21 +1,51 @@
 # What Shaurya's mutation means for treatment options
 
 **Updated:** 2026-08-15
-**Basis:** [Dr Shridhar Joshi's follow-up note, 21 May 2026](../sources/2026-05-21-dr-shridhar-joshi-prescription.md)
+**Basis:** [MedGenome DNA test report, 19 May 2026](../sources/2026-05-19-medgenome-dmd-mlpa-report.md)
+and [Dr Shridhar Joshi's follow-up note, 21 May 2026](../sources/2026-05-21-dr-shridhar-joshi-prescription.md)
 
-> ⚠ The exon number is read from handwriting. Everything below depends on it. **Confirm
-> against the MedGenome MLPA report before acting.** If the deletion is not exon 50, this
-> page is wrong and must be redone.
+> ✅ **Confirmed in print.** The MedGenome report states a hemizygous deletion of
+> **1 Exon (50)**, dosage quotient **0.00**, classified **Pathogenic**. The earlier
+> handwriting reading was correct and this page stands.
 
 ---
 
 ## The finding
 
-**Out-of-frame deletion of exon 50, confirmed by MLPA.** Functional status recorded as
-**Vignos 2, Brooke 1** — mild impairment, walking independently.
+**Hemizygous, out-of-frame deletion of exon 50 of the *DMD* gene**, detected by MLPA and
+classified as pathogenic. No variants of uncertain significance. **No other copy-number
+change anywhere in the gene** — the MLPA ratio chart shows a single probe at zero and every
+other exon at normal dosage.
+
+Exon numbering follows reference transcript **NM_004006.2 (Dp427m)** — trial sponsors ask
+for this.
+
+Functional status: **Vignos 2, Brooke 1** — mild impairment, walking independently.
 
 This answers the question flagged as the campaign's biggest unknown. It changes the
 picture substantially, and mostly for the better.
+
+### One caveat the lab itself raises
+
+MedGenome's report carries an explicit recommendation and a matching disclaimer:
+
+> "Point variations / small INDELS in probe binding region may result in single exon
+> deletion profiles in MLPA. Hence, **sequencing of exon 50 of the DMD gene is recommended
+> to rule out point variations.**"
+>
+> "**Single exon deletions detected by MLPA should always be confirmed by other methods
+> like multiplex PCR or sequencing.**"
+
+Shaurya's result is exactly that case — a single-exon deletion. The clinical picture
+(CPK 22,051, calf hypertrophy, Gowers' sign) makes a false positive unlikely, and the
+result should be treated as correct for planning. But **confirmatory sequencing has been
+recommended by the lab and there is no evidence it has been done.** Trial sponsors review
+genotype through their own genetic counsellors before enrolling, and an unconfirmed
+single-exon MLPA call is the kind of thing that stalls an application. Closing it is cheap
+and removes a foreseeable obstacle.
+
+The report also recommends **maternal carrier screening** and genetic counselling. Neither
+affects Shaurya's treatment, but both matter to the family.
 
 ## Why exon 50 is a fortunate deletion to have
 
@@ -93,7 +123,7 @@ This is the cheapest, most concrete lever in the entire campaign. It costs nothi
 1. Has deflazacort been started? On what date, and at what dose?
 2. Was the vaccination card sorted out?
 3. Were the ECG and 2D Echo done with Dr Chintan Bhatt, and what did they show?
-4. Can we get a copy of the MedGenome MLPA report, to confirm exon 50 in print?
+4. Has exon 50 sequencing been done, as MedGenome recommended?
 5. Has an AAV antibody test been done? (Still the gate on every gene therapy route,
    including the one being fundraised for.)
 
@@ -109,9 +139,16 @@ Given the genotype, two contacts move to the top of the outreach list:
   FUNCTION-DMD takes 2–7 year olds with mutations in exons 45–55 — a narrow window that
   Shaurya currently sits inside and will age out of.
 
-Both should be told the same three facts up front, because they are what determine a
-reply: **out-of-frame exon 50 deletion confirmed by MLPA; ambulatory, Vignos 2 / Brooke 1;
-age 4 years 4 months.**
+Both should be told the same facts up front, because they are what determine a reply:
+
+> Male, born early 2022. Hemizygous **out-of-frame deletion of exon 50** of *DMD*
+> (NM_004006.2), MLPA-confirmed by MedGenome Labs, Bangalore, 19 May 2026, sample ID
+> 9957238 — classified pathogenic, no other copy-number changes, no VUS. CPK 22,051 U/L
+> (1 May 2026). Ambulatory, **Vignos 2 / Brooke 1**.
+
+That paragraph, plus the PDF report attached, is what a trial coordinator needs to route
+the enquiry. Sending it in the first email rather than after three exchanges is the
+difference between a reply and silence.
 
 ---
 

@@ -28,3 +28,4 @@ Use the date the material was created or sent, not the date it was filed.
 | 2026-08-15 | [2026-08-15-clinical-trial-site-contacts.md](2026-08-15-clinical-trial-site-contacts.md) | 32 trial sites / treatment centres with contacts, compiled for outreach |
 | 2026-05-21 | [2026-05-21-dr-shridhar-joshi-prescription.md](2026-05-21-dr-shridhar-joshi-prescription.md) + [.pdf](2026-05-21-dr-shridhar-joshi-prescription.pdf) | Paediatric neurology follow-up — MLPA result, functional scores, steroid plan |
 | 2026-05-01 | [2026-05-01-toprani-labs-cpk-and-blood-group.md](2026-05-01-toprani-labs-cpk-and-blood-group.md) + [.pdf](2026-05-01-toprani-labs-cpk-and-blood-group.pdf) | Toprani Labs — CPK 22,051 U/L, blood group B Rh Positive |
+| 2026-05-19 | [2026-05-19-medgenome-dmd-mlpa-report.md](2026-05-19-medgenome-dmd-mlpa-report.md) + [.pdf](2026-05-19-medgenome-dmd-mlpa-report.pdf) | **MedGenome DNA test report** — exon 50 deletion, pathogenic. The definitive genetic document |
