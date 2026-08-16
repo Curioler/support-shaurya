@@ -50,8 +50,10 @@ Gaurang.
       and nobody can see it. Highest-value thing the platform does. — B
 - [ ] Message **Prakriti** about additional platforms and reach —
       [draft ready](outreach/whatsapp-to-prakriti.md). — B
-- [ ] Decide whether a third platform helps or fragments further. *Only worth it for
-      audiences ImpactGuru and Ketto cannot reach — diaspora and international donors.* — B/G
+- [ ] Decide whether a third platform (**chuffed.org**, or Prakriti's suggestion) helps or
+      fragments further. *Only worth it for audiences ImpactGuru and Ketto cannot reach —
+      diaspora and international donors. Confirm chuffed.org accepts individual medical
+      appeals; it positions itself as non-profit and social-enterprise fundraising.* — B/G
 - [ ] ₹1 test transaction through the UPI handle to confirm the payee resolves. — B
 
 ## 4. Medical follow-ups

@@ -3,11 +3,11 @@
 **Purpose:** ask Prakriti, who runs fundraising campaigns for children, whether she can help
 open a channel that reaches people ImpactGuru and Ketto currently do not.
 
-**Note on the platform name:** `chuff.org` does not resolve. The platform meant is almost
-certainly **chuffed.org** — a real crowdfunding site, but one aimed at non-profits and
-social enterprises rather than individual medical appeals, so a personal campaign may not
-fit its model. The message leaves the choice of platform to Prakriti, which is the right
-call anyway since she does this for a living.
+**Platform:** **chuffed.org** (confirmed by Bhavin). It describes itself as "non-profit
+charity and social enterprise fundraising", so whether an individual medical appeal fits
+its model is worth Prakriti confirming — she has run campaigns there and will know. Its
+value here is likely **international and diaspora reach**, which is the one thing
+ImpactGuru and Ketto cannot offer.
 
 ---
 
@@ -38,9 +38,9 @@ call anyway since she does this for a living.
 > You've run these campaigns for so many children and you know what actually moves people.
 > Two things I'd love your view on:
 >
-> 1. **Is there a platform that would reach donors these two can't** — especially
-> international or diaspora donors? Someone mentioned chuffed.org to me but I don't know if
-> a personal medical appeal fits there. You'll know far better than I do.
+> 1. **Would chuffed.org work for this** — or is there somewhere better? What I'm really
+> after is reaching donors these two campaigns can't, especially international and diaspora
+> givers. You'll know far better than I do what actually converts.
 >
 > 2. **Would you look at the two campaign pages and tell me what's wrong with them?** I've
 > found a few errors already, but I'm not the right person to judge whether the story
