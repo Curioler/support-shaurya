@@ -101,6 +101,33 @@ violation and would attach a pattern of evasion to a campaign whose only asset i
       appeals; it positions itself as non-profit and social-enterprise fundraising.* — B/G
 - [ ] ₹1 test transaction through the UPI handle to confirm the payee resolves. — B
 
+### High-impact donors — research and strategy
+
+Scaffold with categories and leads is at
+[high-impact-outreach.md](campaign/high-impact-outreach.md). **The research pass has not been
+done.** Aim it at a few very large gifts, not more small ones — at the current rate the two
+campaigns reach roughly ₹2 crore in a year.
+
+- [ ] **Research India's National Policy for Rare Diseases** — DMD is a listed disorder and
+      assistance is available through designated Centres of Excellence, reportedly up to
+      ~₹50 lakh. *Nobody in any document has mentioned this. Verify the current scheme,
+      ceiling and process, and find the nearest Centre of Excellence.* — B
+- [ ] **Email Sarepta about patient assistance / managed access / named-patient pricing**
+      (`SareptAlly@sarepta.com`). *One email, potentially decisive, and it overlaps with the
+      unanswered import-route question. Arguably belongs in section 1.* — B/G
+- [ ] Apply to **Gujarat CM Relief Fund**, and check Karnataka's (treatment is in Bengaluru),
+      **PMNRF**, and **Rashtriya Arogya Nidhi**. — G
+- [ ] Build a **corporate CSR list** — Gujarat and Vadodara-belt companies, pharma and
+      healthcare. *Most realistic route to a single very large gift.* — B
+- [ ] Write a **one-page CSR/institutional proposal** — audited need, hospital certification,
+      fund-utilisation mechanism, tax position. *A crowdfunding page will not do this job.* — B
+- [ ] Contact **DMD and rare-disease organisations** (DART Bengaluru, ORDI, IAMD) — *for
+      navigation more than money; they have done the government paperwork before.* — B
+- [ ] Media and influencers — **only after** the campaign pages are corrected and a combined
+      total is live. Ask Prakriti to advise. — B
+- [ ] Note for the record: **WHO, UNICEF and embassies do not fund individual patients.**
+      Do not spend effort there. — ✓ decided
+
 ## 4. Medical follow-ups
 
 - [ ] **Exon 50 confirmatory sequencing** — recommended by MedGenome; single-exon MLPA calls
