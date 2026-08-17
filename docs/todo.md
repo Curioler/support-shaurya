@@ -93,12 +93,14 @@ violation and would attach a pattern of evasion to a campaign whose only asset i
 - [ ] **Publish a combined running total** across ImpactGuru + Ketto. Currently ₹11,51,321
       and nobody can see it. Highest-value thing the platform does — **and now urgent**, since
       the WhatsApp ban proved the campaign cannot depend on a channel it doesn't own. — B
-- [ ] Message **Prakriti** about additional platforms and reach —
-      [draft ready](outreach/whatsapp-to-prakriti.md). — B
-- [ ] Decide whether a third platform (**chuffed.org**, or Prakriti's suggestion) helps or
-      fragments further. *Only worth it for audiences ImpactGuru and Ketto cannot reach —
-      diaspora and international donors. Confirm chuffed.org accepts individual medical
-      appeals; it positions itself as non-profit and social-enterprise fundraising.* — B/G
+- [x] Message **Prakriti** — sent, [reply received 17 Aug](sources/2026-08-17-prakriti-whatsapp-reply.md)
+- [ ] **Open a Chuffed campaign for international donors.** *Prakriti endorses it —
+      "most transparent", "trusted internationally". Confirm it accepts individual medical
+      appeals. This is additive rather than fragmenting, because it reaches people
+      ImpactGuru and Ketto cannot.* — B/G
+- [ ] Ask Prakriti **which Instagram accounts she has worked with**, and whether she would
+      make introductions. *She offered knowledge; introductions are the higher-value ask and
+      she did not volunteer them.* — B
 - [ ] ₹1 test transaction through the UPI handle to confirm the payee resolves. — B
 
 ### High-impact donors — research and strategy
@@ -123,8 +125,17 @@ campaigns reach roughly ₹2 crore in a year.
       fund-utilisation mechanism, tax position. *A crowdfunding page will not do this job.* — B
 - [ ] Contact **DMD and rare-disease organisations** (DART Bengaluru, ORDI, IAMD) — *for
       navigation more than money; they have done the government paperwork before.* — B
-- [ ] Media and influencers — **only after** the campaign pages are corrected and a combined
-      total is live. Ask Prakriti to advise. — B
+- [ ] **Pitch The Better India and The Logical Indian** — named by Prakriti as the outlets
+      that would give "a very huge platform". *Only after the campaign pages are corrected
+      and a combined total is live: editors verify, and contradictions produce no article
+      rather than a cautious one. Angle and pitch contents in
+      [social-and-media-strategy.md](campaign/social-and-media-strategy.md).* — B
+- [ ] Build the **social presence**: family profiles public, one link in bio to the campaign
+      page, consistent posting, collaborations. — B/G
+- [ ] **Family decision needed: whether and how to use Shaurya's photograph.** *Faces raise
+      substantially more; the exposure is permanent and he cannot consent at four. Framing,
+      and the mitigations that preserve reach, are in the strategy doc. Ours to inform, not
+      to decide.* — G
 - [ ] Note for the record: **WHO, UNICEF and embassies do not fund individual patients.**
       Do not spend effort there. — ✓ decided
 
