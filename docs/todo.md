@@ -2,8 +2,11 @@
 
 Working checklist, reviewed periodically. Ordered by what unblocks the most.
 
-**Last reviewed:** 2026-08-15
+**Last reviewed:** 2026-08-17
 **Suggested cadence:** weekly, or whenever a document or reply lands.
+
+**Dates to diarise:** WhatsApp grievance by **24 Aug** · GAC window opens ~**23 Sep** ·
+12 weeks of steroids ≈ **28 Sep** · 24 weeks ≈ **21 Dec** · Givinostat age-out **7 Jan 2028**
 
 Legend — **B** = Bhavin · **G** = Gaurang/family · **C** = clinicians · **?** = unassigned
 
@@ -49,19 +52,33 @@ Gaurang.
 Banned ~8 Aug 2026, in-app review unavailable. See
 [whatsapp-ban-appeal.md](outreach/whatsapp-ban-appeal.md).
 
+### The escalation ladder — in order, each rung unlocking the next
+
+- [x] **Step 0 — draft the appeal.** Done 17 Aug 2026, **shared with Gaurang**. — B
+- [ ] **Step 1 — send to `support@whatsapp.com`.** Draft is with Gaurang; he will send
+      shortly. **Must go from Gaurang, from the email registered to the banned account.**
+      Ask him to cc Bhavin. — **G, imminent**
+- [ ] **Step 2 — formal grievance to `grievance_officer_wa@support.whatsapp.com`.**
+      *Statutory route under IT Rules 2021: must be acknowledged within 24 hours and decided
+      within 15 days. Letter already drafted. Send once Step 1 has been sent and has gone a
+      few days without a substantive reply — **target: on or before 24 Aug 2026**. Include an
+      electronic signature and request a ticket number.* — G
+- [ ] **Step 3 — appeal to the Grievance Appellate Committee, [gac.gov.in](https://gac.gov.in).**
+      *Trigger: the Grievance Officer replies unsatisfactorily, **or** 30 days pass with no
+      reply. The appeal must be filed within 30 days of that point, by Gaurang. If Step 2
+      goes on 24 Aug, the window opens around **23 Sep 2026** — diarise it.* — G/B
+
+### Supporting actions
+
 - [ ] **Ask Gaurang whether he already requested a review**, when, and what came back.
-      *The screen says 8 Aug; he associates the lockout with 15 Aug. An appeal presented as
-      a first request when one was already declined will be dismissed.* — B/G
+      *The screen says 8 Aug; he associates the lockout with 15 Aug. Both letters currently
+      say "on or about 8 August" — if a review was already declined, they must say so before
+      they go.* — **B/G, before Step 1 sends**
 - [ ] Try the **⋯ menu** on the ban screen — it sometimes exposes support contact even when
-      the review button is greyed out. — G
-- [ ] Send the appeal to `support@whatsapp.com` from the account's registered email. — G
-- [ ] **Send the formal grievance to `grievance_officer_wa@support.whatsapp.com`.**
-      *Statutory route under IT Rules 2021 — must be acknowledged in 24h and decided in 15
-      days. This is the rung that unlocks the next one.* — G
-- [ ] **If no reply in 30 days, or the reply is unsatisfactory: appeal to the Grievance
-      Appellate Committee at [gac.gov.in](https://gac.gov.in) within 30 days.** — G/B
-- [ ] Keep a dated log of every submission, ticket number and reply. *The GAC appeal depends
-      on being able to evidence the grievance-officer step.* — B
+      the review button is greyed out. Costs nothing, do it today. — G
+- [ ] Keep a dated log of every submission, ticket number and reply — table is in
+      [whatsapp-ban-appeal.md](outreach/whatsapp-ban-appeal.md). *Step 3 depends on being
+      able to evidence Step 2.* — B
 - [ ] **Check whether the printed flyers and QR posters carry the banned number.** If so
       they now point nowhere — reprint. — B/G
 - [ ] Confirm the campaign pages don't list the dead number as contact. — B
@@ -123,8 +140,9 @@ violation and would attach a pattern of evasion to a campaign whose only asset i
 
 ## 7. Waiting on
 
+- [ ] **Gaurang to send the WhatsApp support appeal** — draft shared 17 Aug.
 - [ ] Prof. Acharya's reply — sent 2026-08-15.
-- [ ] Prakriti's reply — not yet sent.
+- [ ] Prakriti's reply — draft ready, not yet sent.
 - [ ] Gaurang's answers to section 1.
 
 ---
