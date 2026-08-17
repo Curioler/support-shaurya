@@ -160,10 +160,23 @@ campaigns reach roughly ₹2 crore in a year.
 
 ## 6. Platform build
 
-- [ ] Decide what the platform actually is before building. *Current evidence says its first
-      job is: one combined total, one set of facts, one contact log.* — B
-- [ ] Publish the medical timeline and open questions in a form the family can read. — B
-- [ ] Decide public vs private for the medical source documents once the site exists. — B
+Decision recorded: **domain + GitHub Pages, separate public repo.** See
+[hosting.md](platform/hosting.md).
+
+- [ ] **Register `supportshaurya.in`** — 2–3 years upfront, auto-renew on. *~₹1,000/yr.
+      Register in a name that will last, and make sure Gaurang has the login. A lapsed
+      domain kills every printed flyer.* — B
+- [ ] Consider `.org` as well for diaspora reach, redirecting to the primary. — B
+- [ ] **Create `supportshaurya-site` as a separate public repo.** *Do not enable Pages on
+      this repo — it holds Shaurya's medical records, and a live site would make them
+      crawlable. Public-but-obscure is not the same as searchable.* — B
+- [ ] **Build the one page:** combined total with last-updated date, both donate links side
+      by side, the story in Ketto's accurate wording, Dr Mathew's attributed urgency line,
+      a working contact, and where the money goes. *No backend. Updating the total is an
+      edit and a commit.* — B
+- [ ] Decide with the family which documents may appear publicly. *They agreed to a public
+      repo; that is not the same as agreeing to a searchable medical file.* — B/G
+- [ ] Later, once the page is in use: document library, contact log, trial tracker. — B
 
 ## 7. Waiting on
 
