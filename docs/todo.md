@@ -55,6 +55,13 @@ Banned ~8 Aug 2026, in-app review unavailable. See
 - [ ] Try the **⋯ menu** on the ban screen — it sometimes exposes support contact even when
       the review button is greyed out. — G
 - [ ] Send the appeal to `support@whatsapp.com` from the account's registered email. — G
+- [ ] **Send the formal grievance to `grievance_officer_wa@support.whatsapp.com`.**
+      *Statutory route under IT Rules 2021 — must be acknowledged in 24h and decided in 15
+      days. This is the rung that unlocks the next one.* — G
+- [ ] **If no reply in 30 days, or the reply is unsatisfactory: appeal to the Grievance
+      Appellate Committee at [gac.gov.in](https://gac.gov.in) within 30 days.** — G/B
+- [ ] Keep a dated log of every submission, ticket number and reply. *The GAC appeal depends
+      on being able to evidence the grievance-officer step.* — B
 - [ ] **Check whether the printed flyers and QR posters carry the banned number.** If so
       they now point nowhere — reprint. — B/G
 - [ ] Confirm the campaign pages don't list the dead number as contact. — B

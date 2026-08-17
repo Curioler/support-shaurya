@@ -26,18 +26,31 @@ The screen says **"Date requested: 8 Aug 2026"**, but Gaurang associates the loc
 back. An appeal that presents itself as a first request when a review has already been
 declined will be dismissed on sight.
 
-## Where to send it
+## The escalation ladder — and the part most people never use
 
-1. **`support@whatsapp.com`** — the main route. Send **from the email address associated
-   with the account**, and put the number in international format in the subject line.
-2. **In-app**, if reachable: the **⋯ menu** visible at the top right of the ban screen
-   sometimes exposes a support contact even when the review button is greyed out. Worth
-   tapping before anything else.
-3. **https://www.whatsapp.com/contact/** — the web contact form. Choose the account-ban
-   category.
+Because Gaurang is in India, he has a **statutory** route that ordinary support email does
+not give him. Work down this ladder in order; each rung is a precondition for the next.
 
-Send to one channel, wait, then try the next. Duplicate submissions across every route at
-once tend to be merged and deprioritised.
+| # | Route | Why it matters |
+|---|---|---|
+| 1 | **`support@whatsapp.com`** | Ordinary support. Low odds, but it creates a record |
+| 2 | **WhatsApp's Grievance Officer for India** — `grievance_officer_wa@support.whatsapp.com` | **The important one.** Under India's IT Rules 2021, significant social media intermediaries must appoint a Resident Grievance Officer who is obliged to **acknowledge within 24 hours** and **resolve within 15 days** |
+| 3 | **Grievance Appellate Committee**, [gac.gov.in](https://gac.gov.in) | A government body created under the 2022 amendment to the IT Rules specifically to hear appeals against intermediaries' decisions. Appeal within **30 days** of the Grievance Officer's reply — **or if no reply arrives within 30 days** |
+
+Postal address for the Grievance Officer, if a physical letter is ever needed:
+*WhatsApp LLC, Attention: Grievance Officer, Unit B8 and B10, The Executive Centre, Level 18,
+DLF Cyber City, Building No. 5, Tower A, Phase III, Gurgaon – 122002.*
+
+**This ladder is the reason to be organised about dates.** The GAC will not hear an appeal
+unless the Grievance Officer was contacted first, and the 30-day window runs from their
+reply. Write to the Grievance Officer now, keep the acknowledgement, and diarise the date.
+
+Also worth trying, though neither starts a clock: the **⋯ menu** at the top right of the ban
+screen sometimes exposes support contact even when the review button is greyed out, and
+**https://www.whatsapp.com/contact/** accepts account-ban reports.
+
+Send to one channel, wait, then move down. Firing at every route simultaneously tends to get
+submissions merged and deprioritised.
 
 ## Do not do these
 
@@ -116,6 +129,85 @@ Vadodara, Gujarat, India
 
 ---
 
+---
+
+## Draft grievance to the Grievance Officer for India
+
+Send this **after** the support email, or immediately if that goes unanswered for a few
+days. It is deliberately more formal — its job is to start a statutory clock and create the
+record the GAC will later ask for.
+
+**To:** grievance_officer_wa@support.whatsapp.com
+**Subject:** Grievance under IT Rules 2021 — permanent account ban — +91 XXXXXXXXXX
+
+---
+
+To,
+The Grievance Officer, WhatsApp LLC (India)
+
+**Subject: Formal grievance regarding permanent ban of WhatsApp account +91 XXXXXXXXXX, where
+in-app review has been made unavailable**
+
+Respected Sir/Madam,
+
+I am submitting this as a formal grievance under the Information Technology (Intermediary
+Guidelines and Digital Media Ethics Code) Rules, 2021, and request that it be registered and
+acknowledged within 24 hours, and resolved within 15 days, as those Rules require.
+
+**1. Complainant.** Gaurang K. Nayak, resident of Vadodara, Gujarat, India. Registered
+WhatsApp number: **+91 XXXXXXXXXX**. Email registered to the account:
+`[email]`.
+
+**2. Grievance.** My WhatsApp account was permanently banned on or about **8 August 2026**.
+The application displays only "Recent account activity doesn't follow our Terms of Service"
+and states that **"Requesting a review is not available."** I have therefore been denied
+access to any in-app remedy, which is the reason I am approaching you directly. A photograph
+of the screen is attached.
+
+**3. Context.** In May 2026 my four-year-old son, Shaurya Nayak, was diagnosed with Duchenne
+Muscular Dystrophy, a progressive and fatal genetic disorder. His treating neurologist at
+SPARSH Hospital, Bengaluru has prescribed ELEVIDYS gene therapy, which is not manufactured in
+India and must be imported at a cost of approximately ₹26 crore. We are raising these funds
+through two identity-verified, document-verified public crowdfunding campaigns:
+
+- ImpactGuru: https://www.impactguru.com/s/gxgTiK
+- Ketto: https://ketto.org/s?id=rm-8416066629623119
+
+**4. Cause of the ban, as I understand it.** In seeking help for my son, I forwarded the same
+appeal message, containing links to the above campaigns, to a large number of contacts over a
+short period. I accept that this pattern resembles bulk messaging and that some recipients may
+have reported it. I was not engaged in any commercial activity, was not selling any product or
+service, and sent no message for any purpose other than seeking assistance for my son's
+medical treatment.
+
+**5. Relief sought.** I request that the ban on +91 XXXXXXXXXX be reviewed by a human reviewer
+and the account restored. The account holds my only record of contact with donors, volunteers
+and medical professionals assisting my son, and I have lost those conversations entirely. My
+son's treatment is time-sensitive; his neurologist has certified in writing that the therapy
+"works in a time limited fashion and works better if given earlier."
+
+**6. Undertaking.** If restored, I undertake not to send bulk, repeated or unsolicited
+messages, and to share the campaign only with persons who request it.
+
+**7. Documents available on request.** My son's genetic diagnosis and medical reports, the
+treating physician's certificate from SPARSH Hospital, and verification records from both
+crowdfunding platforms.
+
+I request a written acknowledgement bearing a ticket or reference number, and a reasoned
+decision within the statutory period.
+
+Yours faithfully,
+
+**Gaurang K. Nayak**
+`[electronic signature]`
++91 XXXXXXXXXX · `[email]`
+Vadodara, Gujarat
+Date: `[date]`
+
+*Attachment: photograph of the WhatsApp ban screen dated 15 August 2026.*
+
+---
+
 ## Why the letter is written this way
 
 - **It admits the conduct.** Appeals that deny obvious bulk messaging get closed. Accepting
@@ -127,6 +219,24 @@ Vadodara, Gujarat, India
 - **It does not beg or threaten.** No legal language, no publicity threats, no emotional
   escalation beyond the facts. The facts are already extraordinary.
 - **It asks for one specific thing** and offers evidence rather than attaching it unasked.
+
+The **grievance letter** does the same job in a different register. It is formal because it
+has to function as a record: numbered paragraphs, the statutory basis stated, a specific
+relief sought, and an explicit request for a ticket number. If the matter later goes to the
+GAC, that letter and its acknowledgement are the evidence the appeal rests on. WhatsApp's
+grievance process also asks that complaints carry an **electronic signature** — include one.
+
+## Keep a dated log
+
+From here, record every step: date sent, channel, ticket number, date of reply, content of
+reply. The GAC route depends on being able to show the Grievance Officer was contacted and
+what happened next. A note like the one below, kept in this repo, is enough.
+
+| Date | Channel | Ref / ticket | Response | Next action due |
+|---|---|---|---|---|
+| | support@whatsapp.com | | | |
+| | grievance_officer_wa@support.whatsapp.com | | | 24h ack / 15-day decision |
+| | gac.gov.in | | | within 30 days of GO reply, or of 30 days' silence |
 
 ## Regardless of the outcome — fix the dependency
 
