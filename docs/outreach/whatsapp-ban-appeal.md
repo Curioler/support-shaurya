@@ -19,6 +19,32 @@ outcome, because the system is not evaluating intent.
 So: send the appeal, and **in parallel** rebuild distribution on channels that cannot be
 switched off. The second is the one that actually protects the campaign.
 
+## Who sends it — Gaurang, not Bhavin
+
+**Every letter here must go from Gaurang, from the email address registered to the banned
+account.** This is not a formality:
+
+- Meta acts only on requests from the **account holder**. A third party writing about
+  someone else's account is closed at triage, or answered with "the account holder must
+  contact us" — costing days.
+- Sending **from the registered email** is itself a weak ownership signal, and one of the
+  few the reviewer has.
+- Under the IT Rules, the complainant must be the **person aggrieved**. A grievance filed by
+  a non-party has no standing, and the GAC appeal that depends on it inherits the defect.
+- Both letters are written in the first person as Shaurya's father. That voice is doing real
+  work, and it cannot be borrowed.
+
+**What Bhavin can do:** draft the letters (done), sit with Gaurang while he sends them,
+be **cc'd** so replies are visible and the log stays current, and prepare the GAC filing —
+though the GAC submission itself must also be made by Gaurang.
+
+If Gaurang would rather not compose in English, Bhavin can type and send **from Gaurang's
+own email account, with his permission**. That is still the account holder's address, which
+is what matters.
+
+**Do not send parallel letters from several people.** Multiple senders on one case get
+merged and deprioritised, and can read as brigading. Keep it single-threaded from Gaurang.
+
 ## Before writing — one thing to check
 
 The screen says **"Date requested: 8 Aug 2026"**, but Gaurang associates the lockout with
