@@ -44,10 +44,31 @@ Gaurang.
       the progression"), which is accurate. Leave the physician's certificate unaltered. — B
 - [ ] Resolve the "₹1 lakh spent" line, which reads oddly against "exhausted our savings". — G
 
+## 2b. WhatsApp ban — Gaurang's account
+
+Banned ~8 Aug 2026, in-app review unavailable. See
+[whatsapp-ban-appeal.md](outreach/whatsapp-ban-appeal.md).
+
+- [ ] **Ask Gaurang whether he already requested a review**, when, and what came back.
+      *The screen says 8 Aug; he associates the lockout with 15 Aug. An appeal presented as
+      a first request when one was already declined will be dismissed.* — B/G
+- [ ] Try the **⋯ menu** on the ban screen — it sometimes exposes support contact even when
+      the review button is greyed out. — G
+- [ ] Send the appeal to `support@whatsapp.com` from the account's registered email. — G
+- [ ] **Check whether the printed flyers and QR posters carry the banned number.** If so
+      they now point nowhere — reprint. — B/G
+- [ ] Confirm the campaign pages don't list the dead number as contact. — B
+- [ ] **Stop all mass-forwarding from personal numbers**, permanently. Switch to Status,
+      Channels, and supporters forwarding on their own. — B/G
+
+*Do not register a replacement account to resume broadcasting. Ban evasion is itself a
+violation and would attach a pattern of evasion to a campaign whose only asset is trust.*
+
 ## 3. Fundraising reach
 
 - [ ] **Publish a combined running total** across ImpactGuru + Ketto. Currently ₹11,51,321
-      and nobody can see it. Highest-value thing the platform does. — B
+      and nobody can see it. Highest-value thing the platform does — **and now urgent**, since
+      the WhatsApp ban proved the campaign cannot depend on a channel it doesn't own. — B
 - [ ] Message **Prakriti** about additional platforms and reach —
       [draft ready](outreach/whatsapp-to-prakriti.md). — B
 - [ ] Decide whether a third platform (**chuffed.org**, or Prakriti's suggestion) helps or
