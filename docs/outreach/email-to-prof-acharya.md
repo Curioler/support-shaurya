@@ -1,5 +1,20 @@
 # Draft email — Prof. Acharya (biochemistry)
 
+> **Sent 15 Aug 2026. Replied 17 Aug:**
+>
+> *"Columns merged so hve trbl understanding. Can u plz clarify.? Do send report. I shall,
+> in confidence request an ex-student, to explain more."*
+>
+> **Two things came out of that.** The formatted tables arrived merged and unreadable — a
+> whole exchange spent on formatting rather than on Shaurya. Use
+> [patient-summary-plaintext.md](patient-summary-plaintext.md) for every future email.
+>
+> And he has offered something more valuable than an opinion: **an introduction, in
+> confidence, to a specialist ex-student.** That is exactly the network access the email
+> was hoping for. Follow it up properly.
+>
+> Resent in plain text on 17 Aug; reply expected.
+
 **Purpose:** ask a former biochemistry professor for a scientific second opinion and, if he
 has them, contacts in the Indian neuromuscular/genetics community.
 

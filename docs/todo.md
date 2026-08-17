@@ -159,15 +159,21 @@ campaigns reach roughly ₹2 crore in a year.
 - [ ] **Write to Precision BioSciences** — `function-DMD@precisionbiosciences.com`.
       FUNCTION-DMD takes 2–7 year olds with deletions in exons 45–55. He is inside a window
       he will age out of. — B/G
-- [ ] Use the standard paragraph from
-      [genotype-and-eligibility.md](outreach/genotype-and-eligibility.md) in the first email,
-      with the MedGenome PDF attached. — B
+- [ ] **Use [patient-summary-plaintext.md](outreach/patient-summary-plaintext.md) for every
+      outreach email**, with the MedGenome PDF attached. *Prof. Acharya's first reply was
+      "columns merged so have trouble understanding" — the formatted tables arrived
+      unreadable. A trial coordinator would not have written back to ask.* — B
 - [ ] Stop writing to RegenxBio and to ENDEAVOR — both closed to him. Re-check RegenxBio's
       expanded access monthly. — B
 - [ ] Build a contact log: who was written to, when, what came back. *Silence has so far been
       indistinguishable from undelivered mail.* — B
-- [ ] Follow up Prof. Acharya's reply; log any contacts he offers into the shared docs
-      rather than a private thread. — B
+- [ ] **Send Prof. Acharya the MedGenome report** — he asked for it. — B
+- [ ] **Follow up his offer to consult an ex-student in confidence.** *This is a specialist
+      introduction, and worth more than the opinion the email originally asked for. Ask who,
+      and whether a direct conversation is possible.* — B
+- [ ] **Tell Gaurang the report is being shown to a specialist**, before it happens.
+      *Nothing improper — but it is his son's medical record and he should hear it from a
+      friend. Relates to open question 8.* — **B, do this first**
 
 ## 6. Platform build
 
