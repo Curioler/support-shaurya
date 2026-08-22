@@ -169,9 +169,13 @@ Vadodara, Gujarat, India
 
 ## Draft grievance to the Grievance Officer for India
 
-Send this **after** the support email, or immediately if that goes unanswered for a few
-days. It is deliberately more formal — its job is to start a statutory clock and create the
-record the GAC will later ask for.
+**Send this now.** The support email bounced on 18 Aug and every alternative route is
+closed, so there is nothing left to wait for. It is deliberately more formal than the first
+letter — its job is to start a statutory clock and create the record the GAC will later ask
+for.
+
+**Send from `gaurangnayak144@gmail.com`** — the address registered to the account, confirmed
+by the bounce. Fill in the phone number, sign electronically, and date it.
 
 **To:** grievance_officer_wa@support.whatsapp.com
 **Subject:** Grievance under IT Rules 2021 — permanent account ban — +91 XXXXXXXXXX
@@ -192,7 +196,7 @@ acknowledged within 24 hours, and resolved within 15 days, as those Rules requir
 
 **1. Complainant.** Gaurang K. Nayak, resident of Vadodara, Gujarat, India. Registered
 WhatsApp number: **+91 XXXXXXXXXX**. Email registered to the account:
-`[email]`.
+gaurangnayak144@gmail.com.
 
 **2. Grievance.** My WhatsApp account was permanently banned on or about **8 August 2026**.
 The application displays only "Recent account activity doesn't follow our Terms of Service"
@@ -252,7 +256,7 @@ Yours faithfully,
 
 **Gaurang K. Nayak**
 `[electronic signature]`
-+91 XXXXXXXXXX · `[email]`
++91 XXXXXXXXXX · gaurangnayak144@gmail.com
 Vadodara, Gujarat
 Date: `[date]`
 
