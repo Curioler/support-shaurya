@@ -5,6 +5,11 @@
 
 ---
 
+> **Status, 18 Aug 2026.** Every self-service route has now been tried and closed:
+> in-app review unavailable, `support@whatsapp.com` bounced, and `wa.me/support`,
+> the web contact form and the Help Centre all return to the ban screen.
+> **The grievance route is now the live one — send it.**
+
 ## Be clear-eyed about the odds
 
 Write the appeal — it costs an hour and the account is worth having back. But plan as
@@ -59,7 +64,7 @@ not give him. Work down this ladder in order; each rung is a precondition for th
 
 | # | Route | Why it matters |
 |---|---|---|
-| 1 | **`support@whatsapp.com`** | Ordinary support. Low odds, but it creates a record |
+| 1 | ~~`support@whatsapp.com`~~ | **DEAD — attempted 18 Aug 2026, [bounced](../sources/2026-08-18-whatsapp-support-bounce.md).** The address does not accept support requests. Every alternative it suggests returns to the ban screen |
 | 2 | **WhatsApp's Grievance Officer for India** — `grievance_officer_wa@support.whatsapp.com` | **The important one.** Under India's IT Rules 2021, significant social media intermediaries must appoint a Resident Grievance Officer who is obliged to **acknowledge within 24 hours** and **resolve within 15 days** |
 | 3 | **Grievance Appellate Committee**, [gac.gov.in](https://gac.gov.in) | A government body created under the 2022 amendment to the IT Rules specifically to hear appeals against intermediaries' decisions. Appeal within **30 days** of the Grievance Officer's reply — **or if no reply arrives within 30 days** |
 
@@ -71,12 +76,13 @@ DLF Cyber City, Building No. 5, Tower A, Phase III, Gurgaon – 122002.*
 unless the Grievance Officer was contacted first, and the 30-day window runs from their
 reply. Write to the Grievance Officer now, keep the acknowledgement, and diarise the date.
 
-Also worth trying, though neither starts a clock: the **⋯ menu** at the top right of the ban
-screen sometimes exposes support contact even when the review button is greyed out, and
-**https://www.whatsapp.com/contact/** accepts account-ban reports.
+**One last thing worth trying in parallel — from a desktop, not the phone.** Every route
+Gaurang tried opened the WhatsApp app, because mobile browsers deep-link into it. On a
+laptop there is no app to open, so **https://www.whatsapp.com/contact/** may render an actual
+web form. It takes five minutes, and either outcome helps: a working form is another channel,
+and a failure is one more documented attempt to attach to the grievance.
 
-Send to one channel, wait, then move down. Firing at every route simultaneously tends to get
-submissions merged and deprioritised.
+Do not wait on it. **Send the grievance now** and try the desktop form alongside.
 
 ## Do not do these
 
@@ -91,9 +97,13 @@ submissions merged and deprioritised.
 
 ---
 
-## Draft appeal email
+## Draft appeal email — *superseded, kept for reuse*
 
-**To:** support@whatsapp.com
+> This was sent to `support@whatsapp.com` on 18 Aug 2026 and
+> [bounced](../sources/2026-08-18-whatsapp-support-bounce.md). Kept because the body text is
+> reusable verbatim if the desktop contact form ever accepts a submission. **The live
+> document is the grievance letter below.**
+
 **Subject:** Account ban appeal — +91 XXXXXXXXXX — medical crowdfunding for a 4-year-old child
 
 ---
@@ -186,9 +196,25 @@ WhatsApp number: **+91 XXXXXXXXXX**. Email registered to the account:
 
 **2. Grievance.** My WhatsApp account was permanently banned on or about **8 August 2026**.
 The application displays only "Recent account activity doesn't follow our Terms of Service"
-and states that **"Requesting a review is not available."** I have therefore been denied
-access to any in-app remedy, which is the reason I am approaching you directly. A photograph
-of the screen is attached.
+and states that **"Requesting a review is not available."** A photograph of the screen is
+attached.
+
+**2A. No support channel is available to me.** Before approaching you, I attempted every
+route WhatsApp offers, and each is closed:
+
+  (a) **In-app review** — the application states "Requesting a review is not available."
+  (b) **Email to support@whatsapp.com**, sent 18 August 2026 — automatically rejected the
+      same day by noreply@whatsapp.com with the message: *"Your message to
+      support@whatsapp.com was not delivered as this email address doesn't accept support
+      requests."* A copy of that bounce is attached.
+  (c) **wa.me/support**, suggested in that bounce — opens the application, which displays
+      the same ban screen and offers no means of contact.
+  (d) **The support form at whatsapp.com/contact**, also suggested in that bounce — likewise
+      returns to the application and the same ban screen.
+  (e) **The Help Centre** — provides self-help articles only, with no route to raise a case.
+
+I am therefore left with no channel through which to be heard, which is precisely the
+circumstance the Grievance Officer mechanism under the Rules exists to address.
 
 **3. Context.** In May 2026 my four-year-old son, Shaurya Nayak, was diagnosed with Duchenne
 Muscular Dystrophy, a progressive and fatal genetic disorder. His treating neurologist at
@@ -230,7 +256,8 @@ Yours faithfully,
 Vadodara, Gujarat
 Date: `[date]`
 
-*Attachment: photograph of the WhatsApp ban screen dated 15 August 2026.*
+*Attachments: (1) photograph of the WhatsApp ban screen dated 15 August 2026;
+(2) the automated bounce from noreply@whatsapp.com dated 18 August 2026.*
 
 ---
 

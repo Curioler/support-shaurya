@@ -2,10 +2,10 @@
 
 Working checklist, reviewed periodically. Ordered by what unblocks the most.
 
-**Last reviewed:** 2026-08-17
+**Last reviewed:** 2026-08-18
 **Suggested cadence:** weekly, or whenever a document or reply lands.
 
-**Dates to diarise:** WhatsApp grievance by **24 Aug** · GAC window opens ~**23 Sep** ·
+**Dates to diarise:** WhatsApp grievance **today** · statutory decision due ~**2 Sep** · GAC window opens ~**17 Sep** ·
 12 weeks of steroids ≈ **28 Sep** · 24 weeks ≈ **21 Dec** · Givinostat age-out **7 Jan 2028**
 
 Legend — **B** = Bhavin · **G** = Gaurang/family · **C** = clinicians · **?** = unassigned
@@ -55,27 +55,33 @@ Banned ~8 Aug 2026, in-app review unavailable. See
 ### The escalation ladder — in order, each rung unlocking the next
 
 - [x] **Step 0 — draft the appeal.** Done 17 Aug 2026, **shared with Gaurang**. — B
-- [ ] **Step 1 — send to `support@whatsapp.com`.** Draft is with Gaurang; he will send
-      shortly. **Must go from Gaurang, from the email registered to the banned account.**
-      Ask him to cc Bhavin. — **G, imminent**
-- [ ] **Step 2 — formal grievance to `grievance_officer_wa@support.whatsapp.com`.**
-      *Statutory route under IT Rules 2021: must be acknowledged within 24 hours and decided
-      within 15 days. Letter already drafted. Send once Step 1 has been sent and has gone a
-      few days without a substantive reply — **target: on or before 24 Aug 2026**. Include an
-      electronic signature and request a ticket number.* — G
+- [x] **Step 1 — `support@whatsapp.com`.** Sent 18 Aug 2026, **bounced** — the address does
+      not accept support requests. Every alternative it suggested (`wa.me/support`, the web
+      contact form, the Help Centre) returns to the ban screen.
+      [Bounce recorded](sources/2026-08-18-whatsapp-support-bounce.md). *Keep this email —
+      it is evidence, not a dead end.*
+- [ ] **Step 2 — formal grievance to `grievance_officer_wa@support.whatsapp.com`. SEND NOW.**
+      *No longer waiting on anything: every self-service route is closed and documented,
+      which is exactly the circumstance the Grievance Officer exists for. Letter is drafted
+      and now includes the exhaustion-of-remedies paragraph. **Attach both the ban screenshot
+      and the bounce email.** Include an electronic signature and request a ticket number.
+      Statutory: 24-hour acknowledgement, 15-day decision.* — **G, today**
+- [ ] Try `https://www.whatsapp.com/contact/` **from a laptop, not the phone.** *Mobile
+      browsers deep-link into the app; a desktop has no app to open, so the web form may
+      actually render. Five minutes. Either outcome helps — a working form is another
+      channel, a failure is one more documented attempt. Do not delay Step 2 for it.* — G
 - [ ] **Step 3 — appeal to the Grievance Appellate Committee, [gac.gov.in](https://gac.gov.in).**
       *Trigger: the Grievance Officer replies unsatisfactorily, **or** 30 days pass with no
-      reply. The appeal must be filed within 30 days of that point, by Gaurang. If Step 2
-      goes on 24 Aug, the window opens around **23 Sep 2026** — diarise it.* — G/B
+      reply. Filed within 30 days of that point, by Gaurang. **If Step 2 goes on 18 Aug, the
+      15-day statutory decision falls due ~2 Sep and the GAC window opens ~17 Sep 2026** —
+      diarise both.* — G/B
 
 ### Supporting actions
 
 - [ ] **Ask Gaurang whether he already requested a review**, when, and what came back.
-      *The screen says 8 Aug; he associates the lockout with 15 Aug. Both letters currently
-      say "on or about 8 August" — if a review was already declined, they must say so before
-      they go.* — **B/G, before Step 1 sends**
-- [ ] Try the **⋯ menu** on the ban screen — it sometimes exposes support contact even when
-      the review button is greyed out. Costs nothing, do it today. — G
+      *The screen says 8 Aug; he associates the lockout with 15 Aug. The grievance letter
+      says "on or about 8 August" — if a review was already declined, it must say so.*
+      — **B/G, before the grievance goes**
 - [ ] Keep a dated log of every submission, ticket number and reply — table is in
       [whatsapp-ban-appeal.md](outreach/whatsapp-ban-appeal.md). *Step 3 depends on being
       able to evidence Step 2.* — B
