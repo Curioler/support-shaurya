@@ -1,7 +1,24 @@
 # Fundraising channels — the combined position
 
-**Figures read directly from the live campaign pages on 2026-08-15.** They move; re-check
-before quoting.
+**Figures re-read from the live campaign pages on 2026-08-22.** They move; re-check before
+quoting.
+
+| | 15 Aug | 22 Aug | Change in 7 days |
+|---|---|---|---|
+| ImpactGuru | ₹6,12,343 · 418 donors | **₹6,27,045 · 431 donors** | +₹14,702 · +13 |
+| Ketto | ₹5,38,978 · 216 supporters | **₹5,52,478 · 219 supporters** | +₹13,500 · +3 |
+| **Combined** | ₹11,51,321 | **₹11,79,523** | **+₹28,202** |
+
+**That is the number that matters most on this page.** ₹28,202 in a week, against a
+₹26 crore target, is a run rate of roughly ₹15 lakh a year. The campaign is not slowly
+getting there — on its current trajectory it does not get there at all. Everything in
+[high-impact-outreach.md](high-impact-outreach.md) and
+[social-and-media-strategy.md](social-and-media-strategy.md) follows from this single
+fact.
+
+⚠ **Ketto shows 15 days left** (was 22 on 15 Aug). Find out what happens at zero —
+whether the campaign closes, can be extended, and whether funds already raised are
+affected. This is time-critical and nobody has checked.
 
 This is the page the whole platform idea exists for. There are currently **at least three
 ways to give**, run by **two different family members**, on **two platforms with two
@@ -13,15 +30,15 @@ different goals**, and **nobody anywhere can see the combined total**.
 
 | Channel | Campaigner | Goal | Raised | Supporters | Status |
 |---|---|---|---|---|---|
-| [ImpactGuru](https://www.impactguru.com/s/gxgTiK) | Gaurang Nayak (father), Vadodara | **₹26,00,00,000** | **₹6,12,343** | 418 donors | Verified: campaigner, beneficiary, hospital/doctor case verification, documents submitted |
-| [Ketto](https://ketto.org/s?id=rm-8416066629623119) | Jolly Gaurang Nayak (mother), Gujarat | **₹20,00,00,000** | **₹5,38,978** | 216 supporters | 9 documents available; 22 days left |
+| [ImpactGuru](https://www.impactguru.com/s/gxgTiK) | Gaurang Nayak (father), Vadodara | **₹26,00,00,000** | **₹6,27,045** | 431 donors | Verified: campaigner, beneficiary, hospital/doctor case verification, documents submitted |
+| [Ketto](https://ketto.org/s?id=rm-8416066629623119) | Jolly Gaurang Nayak (mother), Gujarat | **₹20,00,00,000** | **₹5,52,478** | 219 supporters | 9 documents available; **15 days left** |
 | UPI `supportshaury9484@cashfreensdlpb` | — | — | not visible | — | Appears to be an ImpactGuru/Cashfree-issued VPA, so likely counted inside the ImpactGuru total |
 | Ketto bank transfer — A/C 2223234671206632, "Shaurya Nayak-Ketto", IFSC UTIB000RAZP | — | — | not visible | — | Presumably counted inside the Ketto total |
 
-**Combined raised: ₹11,51,321.**
+**Combined raised: ₹11,79,523.**
 
-Against ₹26 crore, that is **0.44%**. Both campaigns show "22 days", so they appear to have
-launched at roughly the same time and are running in parallel rather than in sequence.
+Against ₹26 crore, that is **0.45%**. Both launched at roughly the same time and run in
+parallel rather than in sequence.
 
 ## Why the split is costing money, not just tidiness
 
@@ -47,6 +64,18 @@ These are all in live, public copy right now.
 
 ImpactGuru asks for ₹26 crore, Ketto for ₹20 crore. The treating physician's certificate
 says **₹26 crore excluding taxes**, so ₹20 crore is below the drug cost alone.
+
+**Where to find it on Ketto:** it is not in the story text. It is in the **donation
+progress panel** — the right-hand column on desktop, and on mobile the sticky bar or the
+block below the story. It reads:
+
+> ₹ 5,52,478
+> raised of ₹ 20,00,00,000 goal
+> 219 supporters · 15 Days left
+
+It is easy to miss because it is rendered as the digit string `₹ 20,00,00,000`, never as
+the words "20 crore" — so scanning the page for "crore" finds only the title, which says
+**26 Crore**. Confirmed still live on 22 Aug 2026.
 
 A donor who opens both links sees the family asking for two different amounts for the same
 treatment. That is the kind of thing that turns a supporter into a sceptic. Pick one figure
