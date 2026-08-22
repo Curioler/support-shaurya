@@ -60,8 +60,11 @@ Gaurang — **ask them on a call, not through the relay.**
 
 ## 2. Campaign copy — errors sitting in public right now
 
-- [ ] **Agree one goal figure** and apply it to both platforms. ₹26 crore vs ₹20 crore
-      currently. — G
+**Ready-to-paste replacement copy for both platforms:**
+[revised-campaign-copy.md](campaign/revised-campaign-copy.md)
+
+- [ ] **Set Ketto's goal to ₹26 crore.** *Its own title already says 26 crore while the
+      goal field says 20 — the page contradicts itself.* — G
 - [ ] **Ketto:** fix "My name is Shaurya Nayak, and I am fighting to save my son's life" —
       that is the patient's name, in the mother's appeal. — G
 - [ ] **ImpactGuru:** fix "Shaurya Nayak — Parent of Gaurang Nayak". Inverted, and inside
@@ -72,7 +75,8 @@ Gaurang — **ask them on a call, not through the relay.**
 - [ ] **Update Shaurya's age** — appeals say 4y4m, he is 4y7m (DOB 7 Jan 2022). Keep current. — B
 - [ ] **Do not describe ELEVIDYS as a "cure"** in public copy. Use Ketto's wording ("slow
       the progression"), which is accurate. Leave the physician's certificate unaltered. — B
-- [ ] Resolve the "₹1 lakh spent" line, which reads oddly against "exhausted our savings". — G
+- [ ] Confirm with Gaurang: the "only earning member / fire and safety" line under his own
+      name, and removing the "₹1 lakh" figure. *Both handled in the revised copy.* — B/G
 
 ## 2b. WhatsApp ban — Gaurang's account
 
