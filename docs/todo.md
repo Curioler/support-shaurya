@@ -12,10 +12,27 @@ Legend — **B** = Bhavin · **G** = Gaurang/family · **C** = clinicians · **?
 
 ---
 
+## 0. Fix the communication chain first
+
+**As of 18 Aug, reaching Gaurang runs: Bhavin → Pradeep Mondal → Gaurang's wife's phone →
+Gaurang.** His own WhatsApp is banned, so every message takes three hops and a day.
+
+That is survivable for sending documents. It is a bad way to ask four medical questions
+whose answers determine trial eligibility, because each round trip costs days and detail
+gets lost in relay.
+
+- [ ] **Get a direct line to Gaurang — a phone call.** *Ten minutes on a call resolves what
+      the relay will take a week to half-answer. Ask for a time that suits him.* — **B, first**
+- [ ] Get a **direct number or email for Gaurang** that does not depend on WhatsApp, and one
+      for Jolly. Record them where the campaign team can find them. — B
+- [ ] **Check the public contact number on ImpactGuru, Ketto and the printed flyers.**
+      *If any of them carry the banned number, every donor trying to make contact is hitting
+      a dead line — and nobody would know.* — **B, urgent**
+
 ## 1. Blocking — everything else waits on these
 
 These are cheap to answer and expensive to leave open. All four are one conversation with
-Gaurang.
+Gaurang — **ask them on a call, not through the relay.**
 
 - [ ] **Did deflazacort actually start around 6 July?** Exact date and dose. — G
       *Trial eligibility clocks run from the first dose: 12 weeks ≈ 28 Sep, 24 weeks ≈ 21 Dec.
