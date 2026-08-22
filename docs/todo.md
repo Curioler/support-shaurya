@@ -25,9 +25,19 @@ gets lost in relay.
       the relay will take a week to half-answer. Ask for a time that suits him.* — **B, first**
 - [ ] Get a **direct number or email for Gaurang** that does not depend on WhatsApp, and one
       for Jolly. Record them where the campaign team can find them. — B
-- [ ] **Check the public contact number on ImpactGuru, Ketto and the printed flyers.**
-      *If any of them carry the banned number, every donor trying to make contact is hitting
-      a dead line — and nobody would know.* — **B, urgent**
+- [x] Check the public contact number — **confirmed 18 Aug: the banned number is on
+      ImpactGuru, Ketto and the printed flyers.** Full analysis in
+      [contact-number-problem.md](campaign/contact-number-problem.md)
+- [ ] **Swap the contact number on ImpactGuru and Ketto to Jolly's.** *Free, instant, no
+      ban-evasion question — she is the Ketto campaigner and her WhatsApp works. Calls to
+      Gaurang's number still connect; it is WhatsApp messages that fail silently, which reads
+      as a scam signal to Indian donors.* — **B/G, today**
+- [ ] **Check what the flyer QR codes encode.** *If they are `wa.me/` links they are
+      completely dead. If they point at ImpactGuru or Ketto they still work and the flyers
+      are fine. Determines whether anything needs reprinting at all.* — **B, urgent**
+- [ ] Sticker over the contact line on undistributed flyer stock. Do not reprint yet. — G
+- [ ] **Warn the family: do not mass-forward from Jolly's number.** *It will be banned the
+      same way within weeks, and then both numbers are burned.* — B
 
 ## 1. Blocking — everything else waits on these
 
