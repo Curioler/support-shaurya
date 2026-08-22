@@ -1,0 +1,222 @@
+CHANGES NEEDED ON THE TWO FUNDRAISER PAGES
+For Gaurang bhai - prepared 18 August 2026
+
+There are 5 small changes and 2 story rewrites. The small changes take
+about 10 minutes. Everything is written out below - nothing needs to be
+composed, only copied.
+
+
+=====================================================================
+PART 1 - FIVE SMALL CHANGES (please do these first)
+=====================================================================
+
+ON KETTO:
+
+1. Change the goal amount from Rs. 20 crore to Rs. 26 crore.
+   Why: the page title already says "26 Crore" but the goal is set to
+   20 crore, so the page contradicts itself. Donors who open both
+   fundraisers currently see two different amounts.
+
+2. Change the contact number to Jolly bhabhi's number.
+   Why: your number still receives calls, but it is off WhatsApp now,
+   and most donors try WhatsApp first. Their messages disappear with no
+   sign to them or to us.
+
+
+ON IMPACTGURU:
+
+3. In the beneficiary section, it says "Shaurya Nayak - Parent of
+   Gaurang Nayak". Please change to "Son of Gaurang Nayak".
+   Why: it is the wrong way round, and it sits right next to the green
+   "Verified" badges.
+
+4. Change the contact number to Jolly bhabhi's number. Same reason as
+   above.
+
+5. Leave the ImpactGuru goal as it is - Rs. 26 crore is correct.
+
+
+=====================================================================
+PART 2 - TWO QUESTIONS FOR GAURANG BHAI
+=====================================================================
+
+Please confirm before the new text goes up:
+
+A. Is it okay to say "I work in fire and safety, and I am the only
+   earning member of our family"? This is already written on the Ketto
+   page, but it would now also appear under your own name on
+   ImpactGuru. Only if you are comfortable with it.
+
+B. Both pages currently say "we have spent nearly Rs. 1 lakh on medical
+   care". This sits oddly next to "we have exhausted our savings", and
+   some donors have found it confusing. In the new text it is replaced
+   with "we have spent everything we had on diagnostic tests and
+   physiotherapy". If you would rather give a figure, please tell us the
+   correct one and we will put the same number on both pages.
+
+
+=====================================================================
+PART 3 - NEW STORY TEXT FOR IMPACTGURU
+=====================================================================
+
+Replace the whole story with the text between the lines below.
+
+---------------------------------------------------------------------
+
+My name is Gaurang K. Nayak, and I am writing this with a father's
+heart, filled with fear and hope at the same time.
+
+My son Shaurya is four years old. At an age when children should be
+running, laughing and starting school, my little boy is fighting
+Duchenne Muscular Dystrophy - a rare genetic disease that slowly takes
+away the strength of every muscle in the body, including the heart and
+the muscles used to breathe.
+
+On 1st May 2026, our world changed. A blood test showed his CPK level
+was 22,051, against a normal range of 75 to 230 for his age. Genetic
+testing at MedGenome Labs, Bangalore then confirmed what we were
+dreading: Duchenne Muscular Dystrophy, caused by a deletion in the
+dystrophin gene.
+
+Today Shaurya still walks. He still climbs stairs, though it is
+becoming harder, and he needs to push on his knees to stand up from the
+floor. Every day that passes, this disease takes a little more.
+
+Shaurya is under the care of Dr Ann Agnes Mathew, Consultant Paediatric
+Neurologist at SPARSH Hospital, Bengaluru, alongside doctors in
+Vadodara and Pune. On 9th July 2026, Dr Mathew prescribed ELEVIDYS
+(delandistrogene moxeparvovec), a one-time gene therapy that offers a
+real chance of slowing this disease.
+
+In her written certificate, she says something that will not leave me:
+
+"I recommend that the above-mentioned medicine be imported for saving
+the life of this patient as soon as possible, as the medicine works in
+a time limited fashion and works better if given earlier."
+
+That is why we cannot wait. This treatment works best while a child can
+still walk. For Shaurya, that window is open now.
+
+ELEVIDYS is not manufactured in India and must be imported. The cost is
+approximately US$3.2 million - around Rs. 26 crore, excluding taxes and
+import duties.
+
+I work in fire and safety, and I am the only earning member of our
+family. We have already spent everything we had on diagnostic tests and
+on the physiotherapy Shaurya needs every week. Rs. 26 crore is a number
+I cannot even picture. But next to my son's life, it is only a number.
+
+So today I am setting aside my pride and asking for your help.
+
+Every contribution matters, whether it is Rs. 500 or Rs. 5,000. And if
+you cannot give, please share our fundraiser with your family, friends
+and colleagues. One share can reach the one person who is able to help.
+
+All our medical documents - the genetic report, the doctors'
+prescriptions and the treating physician's certificate - have been
+submitted and verified on this platform. We have nothing to hide. We
+only have a son we are trying to save.
+
+Thank you for reading this far, and for standing with us.
+
+With gratitude,
+Gaurang K. Nayak
+Father of Shaurya
+
+---------------------------------------------------------------------
+
+
+=====================================================================
+PART 4 - NEW STORY TEXT FOR KETTO
+=====================================================================
+
+Replace the whole story with the text between the lines below.
+
+---------------------------------------------------------------------
+
+My name is Jolly Gaurang Nayak, and I am a mother trying to save her
+son.
+
+Every time I watch my four-year-old Shaurya running around the house,
+one thought follows me: how long will he be able to do this?
+
+In May 2026, Shaurya was diagnosed with Duchenne Muscular Dystrophy. It
+is a rare genetic condition that slowly weakens every muscle in a
+child's body - first the legs, then the arms, and in time the heart and
+the muscles needed to breathe.
+
+The signs were small at first. He struggled to climb stairs. He pushed
+on his knees to get up from the floor. Then a blood test showed a CPK
+level of 22,051, when it should have been between 75 and 230. Genetic
+testing at MedGenome Labs, Bangalore confirmed the diagnosis.
+
+Shaurya is treated by Dr Ann Agnes Mathew, Consultant Paediatric
+Neurologist at SPARSH Hospital, Bengaluru, who specialises in
+neuromuscular diseases in children. In July she prescribed ELEVIDYS
+(delandistrogene moxeparvovec) - a one-time gene therapy that gives
+children with Duchenne a chance to slow this disease down.
+
+In her certificate she has written that the medicine should be imported
+"as soon as possible, as the medicine works in a time limited fashion
+and works better if given earlier."
+
+That sentence is why I am writing to strangers today. This treatment
+works best while a child can still walk. Shaurya can still walk. I do
+not know how long that will be true.
+
+ELEVIDYS is not available in India and has to be imported. It costs
+approximately US$3.2 million - about Rs. 26 crore, excluding taxes and
+import duties.
+
+We are an ordinary family. My husband works in fire and safety and is
+the only earning member of our household. He earns enough to run our
+home. He cannot earn Rs. 26 crore. We have already spent everything we
+had on Shaurya's diagnostic tests and on the physiotherapy he needs to
+keep his muscles working for as long as possible.
+
+This fundraiser is my last resort, and I have put all my hope in it.
+
+Please give whatever you can. And if you cannot give, please share our
+story - on WhatsApp, Instagram, Facebook, anywhere. Every share can
+bring the one person who is able to help. The more people who know, the
+faster we reach the amount, and time is the one thing we do not have.
+
+Please also keep Shaurya in your prayers.
+
+Thank you for reading our story, and for every bit of kindness you send
+our way.
+
+Jolly Gaurang Nayak
+Mother of Shaurya
+
+---------------------------------------------------------------------
+
+
+=====================================================================
+ONE IMPORTANT REQUEST
+=====================================================================
+
+Please do not forward the fundraiser links to large numbers of people
+from Jolly bhabhi's number. That is what caused Gaurang bhai's WhatsApp
+to be blocked - not the content, but sending the same message to many
+people quickly. If it happens again on her number, the family loses
+that one too.
+
+The safer way, and it actually reaches more people: ask friends and
+supporters to share the links from their own accounts.
+
+
+=====================================================================
+WHY THESE CHANGES MATTER
+=====================================================================
+
+We want to approach The Better India, The Logical Indian and some
+companies for large donations. Their editors and CSR teams check the
+fundraiser pages before they agree to anything. At the moment the two
+pages show two different goal amounts, and one has a wrong name in it.
+Once both pages match and are correct, we can approach them with
+confidence.
+
+Also included in the new text is Dr Mathew's own written line about the
+medicine working better if given earlier. It is the strongest sentence
+we have and it was not being used anywhere.
